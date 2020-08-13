@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfRunner xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Runner>
+    <Name>Jimmy</Name>
+    <Tier>Freshmen Girls</Tier>
+    <Times>
+      <Time>none</Time>
+    </Times>
+  </Runner>
+  <Runner>
+    <Name>Parky</Name>
+    <Tier>Girls JV</Tier>
+    <Times>
+      <Time>none</Time>
+    </Times>
+  </Runner>
+  <Runner>
+    <Name>Longname Johnson the second</Name>
+    <Tier>Freshmen Girls</Tier>
+    <Times>
+      <Time>none</Time>
+    </Times>
+  </Runner>
+  <Runner>
+    <Name>Internet Sam</Name>
+    <Tier>Freshmen Girls</Tier>
+    <Times>
+      <Time>none</Time>
+    </Times>
+  </Runner>
+</ArrayOfRunner>
